@@ -4,7 +4,7 @@ import { Excalidraw } from "@excalidraw/excalidraw";
 export default function ExcalidrawCanvas() {
     return (
         <>
-       <h1 style={{ textAlign: "center" }}>Excalidraw Example</h1>
+       <h1 style={{ textAlign: "center" }}>Kaustubh's ExcalidrawCanvas</h1>
        <div style={{ height: "100vh" }}>
          <Excalidraw />
        </div>
